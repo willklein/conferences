@@ -1,6 +1,6 @@
 # Conferences
 
-Conferences and CFPs I'm interested in
+> Curated list of conferences and CFPs that interest me
 
 Conference                | City                   | CFP Closes    | Conference Date
 ------------------------- | ---------------------- | ------------- | ---------------
