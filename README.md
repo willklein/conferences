@@ -20,8 +20,8 @@ Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
 [CascadiaFest][15]        | Semiahmoo, WA          | 8/3 - 8/5
 [Develop Denver][16]      | Denver, CO             | 8/4 - 8/5
-[NEJS][17]                | Omaha, NE              | 8/26
-[Midwest.io][18]          | Kansas City, MO        | 8/22 - 8/23
+[Midwest.io][17]          | Kansas City, MO        | 8/22 - 8/23
+[NEJS][18]                | Omaha, NE              | 8/26
 
 ## Past Conferneces
 
@@ -50,6 +50,6 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [14]: https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU
 [15]: http://2016.cascadiafest.org/
 [16]: https://developdenver.org/
-[17]: https://nejsconf.com/
-[18]: https://midwest.io/
+[17]: https://midwest.io/
+[18]: https://nejsconf.com/
 [19]: https://dinosaurjs.org/
