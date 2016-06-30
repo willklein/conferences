@@ -2,13 +2,21 @@
 
 > Curated list of conferences and CFPs that interest me
 
-Conference                | City                   | CFP Closes    | Conference Date
-------------------------- | ---------------------- | ------------- | ---------------
+## Open CFPs
+
+Conference                | City                   | CFP           | Date
+------------------------- | ---------------------- | ------------- | -------------
 [NationJS][1]             | Washington, DC         | [6/30][2]     | 9/16
 [Connect.Tech][3]         | Atlanta, GA            | [6/30][4]     | 10/20 - 10/22
 [Thunder Plains][5]       | Oklahoma City, OK      | [6/30][6]     | 11/3 - 11/4
 [Nodevember][7]           | Nashville, TN          | [8/15][8]     | 11/20 - 11/21
 [View Source][9]          | Seattle, WA            | [8/29][10]    | 11/1 - 11/3
+
+## Conferences
+
+Conference                | City                   | Date
+------------------------- | ---------------------- | -------------
+[NEJS][11]                | Omaha, NE              | 8/26
 
 ## Contributing
 
@@ -24,3 +32,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [8]: https://www.papercall.io/nodevember2016
 [9]: https://viewsourceconf.org/seattle-2016/
 [10]: https://viewsourceconf.org/seattle-2016/cfp/
+[11]: https://nejsconf.com/
