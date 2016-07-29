@@ -14,8 +14,6 @@ Conference                | City                   | CFP           | Date
 
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
-[CodeStock][20]           | Knoxville, TN          | 7/15 - 7/16
-[npmCamp][25]             | Oakland, CA            | 7/30
 [CascadiaFest][15]        | Semiahmoo, WA          | 8/3 - 8/5
 [Develop Denver][16]      | Denver, CO             | 8/4 - 8/5
 [Midwest JS][21]          | Minneapolis, MN        | 8/10 - 8/12
@@ -37,6 +35,8 @@ Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
 [DinosaurJS][19]          | Denver, CO             | 5/24
 [EmpireJS][23]            | New York, NY           | 5/26 - 5/27
+[CodeStock][20]           | Knoxville, TN          | 7/15 - 7/16
+[npmCamp][25]             | Oakland, CA            | 7/30
 
 
 ## Contributing
