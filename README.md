@@ -33,6 +33,7 @@ Conference                | City                   | Date
 
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
+[React.js][30]            | San Francisco, CA      | 2/22 - 2/23
 [DinosaurJS][19]          | Denver, CO             | 5/24
 [EmpireJS][23]            | New York, NY           | 5/26 - 5/27
 [CodeStock][20]           | Knoxville, TN          | 7/15 - 7/16
@@ -67,3 +68,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [27]: http://www.thestrangeloop.com/
 [28]: http://empirenode.org/
 [29]: http://empirenode.org/#cfp
+[30]: http://conf.reactjs.com/
