@@ -6,10 +6,9 @@
 
 Conference                | City                   | CFP           | Date
 ------------------------- | ---------------------- | ------------- | -------------
-[Full Stack Toronto][11]  | Toronto, Canada        | [7/14][12]    | 10/17 - 10/18
-[Node Interactive NA][13] | Austin, TX             | [7/15][14]    | 11/9 - 12/2
 [Nodevember][7]           | Nashville, TN          | [8/15][8]     | 11/20 - 11/21
 [View Source][9]          | Seattle, WA            | [8/29][10]    | 11/1 - 11/3
+[EmpireNode][28]          | New York, NY           | [9/1][29]     | 11/7
 
 ## Upcoming Conferences
 
@@ -27,15 +26,17 @@ Conference                | City                   | Date
 [Strange Loop][27]        | St. Louis, MO          | 9/15 - 9/17
 [NationJS][1]             | Washington, DC         | 9/16
 [UtahJS][22]              | Salt Lake City, UT     | 9/16
+[Full Stack Toronto][11]  | Toronto, Canada        | 10/17 - 10/18
 [Connect.Tech][3]         | Atlanta, GA            | 10/20 - 10/22
 [Thunder Plains][5]       | Oklahoma City, OK      | 11/3 - 11/4
+[Node Interactive NA][13] | Austin, TX             | 11/29 - 12/2
 
 ## Past Conferneces
 
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
 [DinosaurJS][19]          | Denver, CO             | 5/24
-[EmpireJS][23]            | New York, NY            | 5/26 - 5/27
+[EmpireJS][23]            | New York, NY           | 5/26 - 5/27
 
 
 ## Contributing
@@ -50,9 +51,7 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [9]: https://viewsourceconf.org/seattle-2016/
 [10]: https://viewsourceconf.org/seattle-2016/cfp/
 [11]: http://fsto.co/
-[12]: http://fsto.co/speak/
 [13]: http://events.linuxfoundation.org/events/node-interactive
-[14]: https://www.conferenceabstracts.com/cfp2/login.asp?EventKey=VSIHQOEU
 [15]: http://2016.cascadiafest.org/
 [16]: https://developdenver.org/
 [17]: https://midwest.io/
@@ -66,3 +65,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [25]: http://npm.camp/
 [26]: http://abstractions.io/
 [27]: http://www.thestrangeloop.com/
+[28]: http://empirenode.org/
+[29]: http://empirenode.org/#cfp
