@@ -6,7 +6,6 @@
 
 Conference                | City                   | CFP           | Date
 ------------------------- | ---------------------- | ------------- | -------------
-[Nodevember][7]           | Nashville, TN          | [8/15][8]     | 11/20 - 11/21
 [View Source][9]          | Seattle, WA            | [8/29][10]    | 11/1 - 11/3
 [EmpireNode][28]          | New York, NY           | [9/1][29]     | 11/7
 
@@ -25,6 +24,7 @@ Conference                | City                   | Date
 [Full Stack Toronto][11]  | Toronto, Canada        | 10/17 - 10/18
 [Connect.Tech][3]         | Atlanta, GA            | 10/20 - 10/22
 [Thunder Plains][5]       | Oklahoma City, OK      | 11/3 - 11/4
+[Nodevember][7]           | Nashville, TN          | 11/20 - 11/21
 [Node Interactive NA][13] | Austin, TX             | 11/29 - 12/2
 
 ## Past Conferences
@@ -47,7 +47,6 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [3]: http://connect.tech/
 [5]: http://thunderplainsconf.com/
 [7]: http://nodevember.org/
-[8]: https://www.papercall.io/nodevember2016
 [9]: https://viewsourceconf.org/seattle-2016/
 [10]: https://viewsourceconf.org/seattle-2016/cfp/
 [11]: http://fsto.co/
