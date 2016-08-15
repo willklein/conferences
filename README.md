@@ -6,7 +6,6 @@
 
 Conference                | City                   | CFP           | Date
 ------------------------- | ---------------------- | ------------- | -------------
-[View Source][9]          | Seattle, WA            | [8/29][10]    | 11/1 - 11/3
 [EmpireNode][28]          | New York, NY           | [9/1][29]     | 11/7
 
 ## Upcoming Conferences
@@ -47,8 +46,6 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [3]: http://connect.tech/
 [5]: http://thunderplainsconf.com/
 [7]: http://nodevember.org/
-[9]: https://viewsourceconf.org/seattle-2016/
-[10]: https://viewsourceconf.org/seattle-2016/cfp/
 [11]: http://fsto.co/
 [13]: http://events.linuxfoundation.org/events/node-interactive
 [15]: http://2016.cascadiafest.org/
