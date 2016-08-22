@@ -13,7 +13,6 @@ Conference                | City                   | CFP           | Date
 
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
-[Abstractions][26]        | Pittsburgh, PA         | 8/18 - 8/20
 [Midwest.io][17]          | Kansas City, MO        | 8/22 - 8/23
 [React Rally][24]         | Salt Lake City, UT     | 8/25 - 8/26
 [NEJS][18]                | Omaha, NE              | 8/26
@@ -38,6 +37,7 @@ Conference                | City                   | Date
 [CascadiaFest][15]        | Semiahmoo, WA          | 8/3 - 8/5
 [Develop Denver][16]      | Denver, CO             | 8/4 - 8/5
 [Midwest JS][21]          | Minneapolis, MN        | 8/10 - 8/12
+[Abstractions][26]        | Pittsburgh, PA         | 8/18 - 8/20
 
 ## Contributing
 
