@@ -7,7 +7,7 @@
 Conference                | City                   | CFP           | Date
 ------------------------- | ---------------------- | ------------- | -------------
 [The Lead Developer][31]  | New York, NY           | [8/26][32]    | 2/21/2017
-[EmpireNode][28]          | New York, NY           | [9/1][29]     | 11/7/2016
+[EmpireNode][28]          | New York, NY           | [9/5][29]     | 11/7/2016
 
 ## Upcoming Conferences
 
