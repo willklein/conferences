@@ -6,7 +6,6 @@
 
 Conference                | City                   | CFP           | Date
 ------------------------- | ---------------------- | ------------- | -------------
-[The Lead Developer][31]  | New York, NY           | [8/26][32]    | 2/21/2017
 [EmpireNode][28]          | New York, NY           | [9/5][29]     | 11/7/2016
 
 ## Upcoming Conferences
@@ -23,6 +22,7 @@ Conference                | City                   | Date
 [Thunder Plains][5]       | Oklahoma City, OK      | 11/3 - 11/4
 [Nodevember][7]           | Nashville, TN          | 11/20 - 11/21
 [Node Interactive NA][13] | Austin, TX             | 11/29 - 12/2
+[The Lead Developer][31]  | New York, NY           | 2/21/2017
 
 ## Past Conferences
 
@@ -66,4 +66,3 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [29]: http://empirenode.org/#cfp
 [30]: http://conf.reactjs.com/
 [31]: http://theleaddeveloper-ny.com/
-[32]: https://docs.google.com/forms/d/e/1FAIpQLSfrniFlDgX8xgix2m3TnD_53n4PQvGU2DejBKGissJIJj1y7w/viewform
