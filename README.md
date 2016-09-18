@@ -6,7 +6,6 @@
 
 Conference                | City                   | CFP           | Date
 ------------------------- | ---------------------- | ------------- | -------------
-[EmpireNode][28]          | New York, NY           | [9/5][29]     | 11/7/2016
 
 ## Upcoming Conferences
 
@@ -18,6 +17,7 @@ Conference                | City                   | Date
 [Full Stack Toronto][11]  | Toronto, Canada        | 10/17 - 10/18
 [Connect.Tech][3]         | Atlanta, GA            | 10/20 - 10/22
 [Thunder Plains][5]       | Oklahoma City, OK      | 11/3 - 11/4
+[EmpireNode][28]          | New York, NY           | 11/7
 [Nodevember][7]           | Nashville, TN          | 11/20 - 11/21
 [Node Interactive NA][13] | Austin, TX             | 11/29 - 12/2
 [The Lead Developer][31]  | New York, NY           | 2/21/2017
@@ -63,6 +63,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [26]: http://abstractions.io/
 [27]: http://www.thestrangeloop.com/
 [28]: http://empirenode.org/
-[29]: http://empirenode.org/#cfp
 [30]: http://conf.reactjs.com/
 [31]: http://theleaddeveloper-ny.com/
