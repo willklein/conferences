@@ -11,9 +11,6 @@ Conference                | City                   | CFP           | Date
 
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
-[Strange Loop][27]        | St. Louis, MO          | 9/15 - 9/17
-[NationJS][1]             | Washington, DC         | 9/16
-[UtahJS][22]              | Salt Lake City, UT     | 9/16
 [Full Stack Toronto][11]  | Toronto, Canada        | 10/17 - 10/18
 [Connect.Tech][3]         | Atlanta, GA            | 10/20 - 10/22
 [Thunder Plains][5]       | Oklahoma City, OK      | 11/3 - 11/4
@@ -38,6 +35,9 @@ Conference                | City                   | Date
 [Midwest.io][17]          | Kansas City, MO        | 8/22 - 8/23
 [React Rally][24]         | Salt Lake City, UT     | 8/25 - 8/26
 [NEJS][18]                | Omaha, NE              | 8/26
+[Strange Loop][27]        | St. Louis, MO          | 9/15 - 9/17
+[NationJS][1]             | Washington, DC         | 9/16
+[UtahJS][22]              | Salt Lake City, UT     | 9/16
 
 ## Contributing
 
