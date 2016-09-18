@@ -11,6 +11,7 @@ Conference                | City                   | CFP           | Date
 
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
+[Rocky Mountain Ruby[32]  | Denver, CO             | 9/30
 [Full Stack Toronto][11]  | Toronto, Canada        | 10/17 - 10/18
 [Connect.Tech][3]         | Atlanta, GA            | 10/20 - 10/22
 [Thunder Plains][5]       | Oklahoma City, OK      | 11/3 - 11/4
@@ -65,3 +66,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [28]: http://empirenode.org/
 [30]: http://conf.reactjs.com/
 [31]: http://theleaddeveloper-ny.com/
+[32]: https://rockymtnruby.com/
