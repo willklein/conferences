@@ -11,7 +11,7 @@ Conference                | City                   | CFP           | Date
 
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
-[Rocky Mountain Ruby[32]  | Denver, CO             | 9/30
+[Rocky Mountain Ruby][32]  | Denver, CO             | 9/30
 [Full Stack Toronto][11]  | Toronto, Canada        | 10/17 - 10/18
 [Connect.Tech][3]         | Atlanta, GA            | 10/20 - 10/22
 [Thunder Plains][5]       | Oklahoma City, OK      | 11/3 - 11/4
