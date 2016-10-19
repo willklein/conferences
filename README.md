@@ -11,8 +11,6 @@ Conference                | City                   | CFP           | Date
 
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
-[Rocky Mountain Ruby][32]  | Denver, CO             | 9/30
-[Full Stack Toronto][11]  | Toronto, Canada        | 10/17 - 10/18
 [Connect.Tech][3]         | Atlanta, GA            | 10/20 - 10/22
 [Thunder Plains][5]       | Oklahoma City, OK      | 11/3 - 11/4
 [EmpireNode][28]          | New York, NY           | 11/7
@@ -24,6 +22,8 @@ Conference                | City                   | Date
 
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
+[Rocky Mountain Ruby][32] | Denver, CO             | 9/30
+[Full Stack Toronto][11]  | Toronto, Canada        | 10/17 - 10/18
 [React.js][30]            | San Francisco, CA      | 2/22 - 2/23
 [DinosaurJS][19]          | Denver, CO             | 5/24
 [EmpireJS][23]            | New York, NY           | 5/26 - 5/27
