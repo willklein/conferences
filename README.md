@@ -5,18 +5,19 @@
 ## Open CFPs
 
 Conference                | City                   | CFP           | Date
-------------------------- | ---------------------- | ------------- | -------------
+------------------------- | ---------------------- | ------------- | ----------------
+[MinneWebCon][33]         | Minneapolis, MN        | [10/21][34]   | 5/1 - 5/2 (2017)
 
 ## Upcoming Conferences
 
 Conference                | City                   | Date
-------------------------- | ---------------------- | -------------
+------------------------- | ---------------------- | ----------------
 [Connect.Tech][3]         | Atlanta, GA            | 10/20 - 10/22
 [Thunder Plains][5]       | Oklahoma City, OK      | 11/3 - 11/4
 [EmpireNode][28]          | New York, NY           | 11/7
 [Nodevember][7]           | Nashville, TN          | 11/20 - 11/21
 [Node Interactive NA][13] | Austin, TX             | 11/29 - 12/2
-[The Lead Developer][31]  | New York, NY           | 2/21/2017
+[The Lead Developer][31]  | New York, NY           | 2/21 (2017)
 
 ## Past Conferences
 
@@ -67,3 +68,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [30]: http://conf.reactjs.com/
 [31]: http://theleaddeveloper-ny.com/
 [32]: https://rockymtnruby.com/
+[33]: http://minnewebcon.org/
+[34]: http://minnewebcon.org/call-for-proposals
