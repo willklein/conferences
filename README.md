@@ -2,7 +2,7 @@
 
 > Curated list of conferences and CFPs that interest me
 
-## Open CFPs
+[//]: # (## Open CFPs)
 
 [//]: # (Conference                | City                   | CFP           | Date)
 [//]: # (------------------------- | ---------------------- | ------------- | ----------------)
