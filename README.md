@@ -11,8 +11,6 @@
 
 Conference                | City                   | Date
 ------------------------- | ---------------------- | ----------------
-[Thunder Plains][5]       | Oklahoma City, OK      | 11/3 - 11/4
-[EmpireNode][28]          | New York, NY           | 11/7
 [Nodevember][7]           | Nashville, TN          | 11/20 - 11/21
 [Node Interactive NA][13] | Austin, TX             | 11/29 - 12/2
 [The Lead Developer][31]  | New York, NY           | 2/21 (2017)
@@ -40,6 +38,8 @@ Conference                | City                   | Date
 [Rocky Mountain Ruby][32] | Denver, CO             | 9/30
 [Full Stack Toronto][11]  | Toronto, Canada        | 10/17 - 10/18
 [Connect.Tech][3]         | Atlanta, GA            | 10/20 - 10/22
+[Thunder Plains][5]       | Oklahoma City, OK      | 11/3 - 11/4
+[EmpireNode][28]          | New York, NY           | 11/7
 
 ## Contributing
 
