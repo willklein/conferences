@@ -2,10 +2,11 @@
 
 > Curated list of conferences and CFPs that interest me
 
-[//]: # (## Open CFPs)
+## Open CFPs
 
-[//]: # (Conference                | City                   | CFP           | Date)
-[//]: # (------------------------- | ---------------------- | ------------- | ----------------)
+Conference                | City                   | CFP           | Date
+------------------------- | ---------------------- | ------------- | ----------------
+[Peers][34]               | Seattle, WA            | [?/?][35]     | 4/26 - 4/28 (2017)
 
 ## Upcoming Conferences
 
@@ -69,3 +70,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [31]: http://theleaddeveloper-ny.com/
 [32]: https://rockymtnruby.com/
 [33]: http://minnewebcon.org/
+[34]: http://peersconf.com/
+[35]: https://peersconf1.typeform.com/to/ANtii2
