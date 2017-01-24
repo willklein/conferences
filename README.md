@@ -10,6 +10,7 @@ Conference                | City                   | Date          | CFP Closes
 [DinosaurJS][19]          | Denver, CO             | 6/15          | [3/15][38]
 [Midwest JS][21]          | Minneapolis, MN        | 8/16 - 8/18   | Opens 1/30
 [Strange Loop][27]        | St. Louis, MO          | 9/28 - 9/30   | Opens April
+[Full Stack Toronto][40]  | Toronto, Canada        | 10/23 - 10/24 | [?/?][41]
 
 ## Upcoming Conferences
 
@@ -81,3 +82,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [36]: https://2017.syntaxcon.com/
 [38]: http://speak.dinosaurjs.org/events/2017
 [39]: http://conf.reactjs.org/
+[40]: http://2017.fsto.co/
+[41]: http://2017.fsto.co/speak/
