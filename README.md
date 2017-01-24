@@ -12,8 +12,9 @@ Conference                | City                   | CFP           | Date
 
 Conference                | City                   | Date
 ------------------------- | ---------------------- | ----------------
-[The Lead Developer][31]  | New York, NY           | 2/21 (2017)
-[MinneWebCon][33]         | Minneapolis, MN        | 5/1 - 5/2 (2017)
+[The Lead Developer][31]  | New York, NY           | 2/21
+[MinneWebCon][33]         | Minneapolis, MN        | 5/1 - 5/2
+[SyntaxCon][36]           | Charleston, SC         | 5/18 - 5/19
 
 ## 2016 Conferences
 
@@ -72,3 +73,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [33]: http://minnewebcon.org/
 [34]: http://peersconf.com/
 [35]: https://peersconf1.typeform.com/to/ANtii2
+[36]: https://2017.syntaxcon.com/
