@@ -5,13 +5,14 @@
 ## Open CFPs
 
 Conference                | City                   | CFP           | Date
-------------------------- | ---------------------- | ------------- | ----------------
-[Peers][34]               | Seattle, WA            | [?/?][35]     | 4/26 - 4/28 (2017)
+------------------------- | ---------------------- | ------------- | -------------
+[Peers][34]               | Seattle, WA            | [?/?][35]     | 4/26 - 4/28
+[DinosaurJS][37]          | Denver, CO             | [3/15][38]    | 6/15
 
 ## Upcoming Conferences
 
 Conference                | City                   | Date
-------------------------- | ---------------------- | ----------------
+------------------------- | ---------------------- | -------------
 [The Lead Developer][31]  | New York, NY           | 2/21
 [MinneWebCon][33]         | Minneapolis, MN        | 5/1 - 5/2
 [SyntaxCon][36]           | Charleston, SC         | 5/18 - 5/19
@@ -74,3 +75,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [34]: http://peersconf.com/
 [35]: https://peersconf1.typeform.com/to/ANtii2
 [36]: https://2017.syntaxcon.com/
+[37]: https://dinosaurjs.org/
+[38]: http://speak.dinosaurjs.org/events/2017
