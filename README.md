@@ -16,6 +16,7 @@ Conference                | City                   | Date
 [The Lead Developer][31]  | New York, NY           | 2/21
 [React Conf][39]          | Santa Clara, CA        | 3/13 - 3/14
 [MinneWebCon][33]         | Minneapolis, MN        | 5/1 - 5/2
+[CodeStock][20]           | Knoxville, TN          | 5/5 - 5/6
 [SyntaxCon][36]           | Charleston, SC         | 5/18 - 5/19
 
 ## 2016 Conferences
