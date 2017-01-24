@@ -4,12 +4,12 @@
 
 ## Open CFPs
 
-Conference                | City                   | CFP           | Date
+Conference                | City                   | Date          | CFP Closes
 ------------------------- | ---------------------- | ------------- | -------------
-[Peers][34]               | Seattle, WA            | [?/?][35]     | 4/26 - 4/28
-[DinosaurJS][19]          | Denver, CO             | [3/15][38]    | 6/15
-[Midwest JS][21]          | Minneapolis, MN        | Opens 1/30    | 8/16 - 8/18
-[Strange Loop][27]        | St. Louis, MO          | Opens April   | 9/28 - 9/30
+[Peers][34]               | Seattle, WA            | 4/26 - 4/28   | [?/?][35]
+[DinosaurJS][19]          | Denver, CO             | 6/15          | [3/15][38]
+[Midwest JS][21]          | Minneapolis, MN        | 8/16 - 8/18   | Opens 1/30
+[Strange Loop][27]        | St. Louis, MO          | 9/28 - 9/30   | Opens April
 
 ## Upcoming Conferences
 
