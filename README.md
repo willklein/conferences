@@ -7,7 +7,8 @@
 Conference                | City                   | CFP           | Date
 ------------------------- | ---------------------- | ------------- | -------------
 [Peers][34]               | Seattle, WA            | [?/?][35]     | 4/26 - 4/28
-[DinosaurJS][37]          | Denver, CO             | [3/15][38]    | 6/15
+[DinosaurJS][19]          | Denver, CO             | [3/15][38]    | 6/15
+[Midwest JS][21]          | Minneapolis, MN        | [?/?][21]     | 8/16 - 8/18
 
 ## Upcoming Conferences
 
@@ -77,6 +78,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [34]: http://peersconf.com/
 [35]: https://peersconf1.typeform.com/to/ANtii2
 [36]: https://2017.syntaxcon.com/
-[37]: https://dinosaurjs.org/
 [38]: http://speak.dinosaurjs.org/events/2017
 [39]: http://conf.reactjs.org/
