@@ -7,6 +7,7 @@
 Conference                | City                   | Date          | CFP Closes
 ------------------------- | ---------------------- | ------------- | -------------
 [Peers][34]               | Seattle, WA            | 4/26 - 4/28   | [?/?][35]
+[RevolutionConf][42]      | Virginia Beach, VA     | 5/1 - 5/2     | [1/31][43]
 [DinosaurJS][19]          | Denver, CO             | 6/15          | [3/15][38]
 [Midwest JS][21]          | Minneapolis, MN        | 8/16 - 8/18   | Opens 1/30
 [Strange Loop][27]        | St. Louis, MO          | 9/28 - 9/30   | Opens April
@@ -84,3 +85,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [39]: http://conf.reactjs.org/
 [40]: http://2017.fsto.co/
 [41]: http://2017.fsto.co/speak/
+[42]: https://revolutionconf.com/
+[43]: https://www.papercall.io/revconf-2017
