@@ -8,7 +8,8 @@ Conference                | City                   | Date          | CFP Closes
 ------------------------- | ---------------------- | ------------- | -------------
 [DinosaurJS][19]          | Denver, CO             | 6/15          | [3/15][38]
 [Strange Loop][27]        | St. Louis, MO          | 9/28 - 9/30   | Opens April
-[Full Stack Toronto][40]  | Toronto, Canada        | 10/23 - 10/24 | [?/?][41]
+[Full Stack Toronto][40]  | Toronto, Canada        | 10/23 - 10/24 | [6/30][41]
+[Develop Denver][16]      | Denver, CO             | TBA           | TBA
 
 ## Upcoming Conferences
 
