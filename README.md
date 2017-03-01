@@ -6,8 +6,6 @@
 
 Conference                | City                   | Date          | CFP Closes
 ------------------------- | ---------------------- | ------------- | -------------
-[Peers][34]               | Seattle, WA            | 4/26 - 4/28   | [?/?][35]
-[Self.conference][44]     | Detroit, MI            | 5/19 - 5/20   | [2/13][45]
 [DinosaurJS][19]          | Denver, CO             | 6/15          | [3/15][38]
 [Midwest JS][21]          | Minneapolis, MN        | 8/16 - 8/18   | [2/24][21]
 [Strange Loop][27]        | St. Louis, MO          | 9/28 - 9/30   | Opens April
@@ -19,9 +17,11 @@ Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
 [The Lead Developer][31]  | New York, NY           | 2/21
 [React Conf][39]          | Santa Clara, CA        | 3/13 - 3/14
+[Peers][34]               | Seattle, WA            | 4/26 - 4/28
 [MinneWebCon][33]         | Minneapolis, MN        | 5/1 - 5/2
 [CodeStock][20]           | Knoxville, TN          | 5/5 - 5/6
 [SyntaxCon][36]           | Charleston, SC         | 5/18 - 5/19
+[Self.conference][44]     | Detroit, MI            | 5/19 - 5/20
 [RevolutionConf][42]      | Virginia Beach, VA     | 6/1 - 6/2
 
 ## 2016 Conferences
@@ -80,7 +80,6 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [32]: https://rockymtnruby.com/
 [33]: http://minnewebcon.org/
 [34]: http://peersconf.com/
-[35]: https://peersconf1.typeform.com/to/ANtii2
 [36]: https://2017.syntaxcon.com/
 [38]: http://speak.dinosaurjs.org/events/2017
 [39]: http://conf.reactjs.org/
@@ -88,4 +87,3 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [41]: http://2017.fsto.co/speak/
 [42]: https://revolutionconf.com/
 [44]: http://selfconference.org/
-[45]: http://selfconference.org/submit
