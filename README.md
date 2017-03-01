@@ -11,7 +11,7 @@ Conference                | City                   | Date          | CFP Closes
 [Full Stack Toronto][40]  | Toronto, Canada        | 10/23 - 10/24 | [6/30][41]
 [Develop Denver][16]      | Denver, CO             | TBA           | TBA
 
-## Upcoming Conferences
+## 2017 Conferences
 
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
