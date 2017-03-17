@@ -6,7 +6,6 @@
 
 Conference                | City                   | Date          | CFP Closes
 ------------------------- | ---------------------- | ------------- | -------------
-[DinosaurJS][19]          | Denver, CO             | 6/15          | [3/15][38]
 [Strange Loop][27]        | St. Louis, MO          | 9/28 - 9/30   | Opens April
 [Full Stack Toronto][40]  | Toronto, Canada        | 10/23 - 10/24 | [6/30][41]
 [Develop Denver][16]      | Denver, CO             | TBA           | TBA
@@ -23,6 +22,7 @@ Conference                | City                   | Date
 [SyntaxCon][36]           | Charleston, SC         | 5/18 - 5/19
 [Self.conference][44]     | Detroit, MI            | 5/19 - 5/20
 [RevolutionConf][42]      | Virginia Beach, VA     | 6/1 - 6/2
+[DinosaurJS][19]          | Denver, CO             | 6/15
 [Midwest JS][21]          | Minneapolis, MN        | 8/16 - 8/18
 
 ## 2016 Conferences
@@ -82,7 +82,6 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [33]: http://minnewebcon.org/
 [34]: http://peersconf.com/
 [36]: https://2017.syntaxcon.com/
-[38]: http://speak.dinosaurjs.org/events/2017
 [39]: http://conf.reactjs.org/
 [40]: http://2017.fsto.co/
 [41]: http://2017.fsto.co/speak/
