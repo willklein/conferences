@@ -6,9 +6,9 @@
 
 Conference                | City                   | Date          | CFP Closes
 ------------------------- | ---------------------- | ------------- | -------------
-[Strange Loop][27]        | St. Louis, MO          | 9/28 - 9/30   | [5/8][
+[Strange Loop][27]        | St. Louis, MO          | 9/28 - 9/30   | [5/8][45]
 [Develop Denver][16]      | Denver, CO             | 8/10 - 8/11   | [6/4][46]
-[Full Stack Toronto][40]  | Toronto, Canada        | 10/23 - 10/24 | [6/30][45]
+[Full Stack Toronto][40]  | Toronto, Canada        | 10/23 - 10/24 | [6/30][41]
 
 ## 2017 Conferences
 
