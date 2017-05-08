@@ -23,7 +23,11 @@ Conference                | City                   | Date
 [Self.conference][44]     | Detroit, MI            | 5/19 - 5/20
 [RevolutionConf][42]      | Virginia Beach, VA     | 6/1 - 6/2
 [DinosaurJS][19]          | Denver, CO             | 6/15
+[Develop Denver][16]      | Denver, CO             | 8/10 - 8/11
 [Midwest JS][21]          | Minneapolis, MN        | 8/16 - 8/18
+[React Rally][24]         | Salt Lake City, UT     | 8/24 - 8/25
+[Strange Loop][27]        | St. Louis, MO          | 9/28 - 9/30
+[Full Stack Toronto][40]  | Toronto, Canada        | 10/23 - 10/24
 
 ## 2016 Conferences
 
