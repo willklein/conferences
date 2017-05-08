@@ -23,11 +23,13 @@ Conference                | City                   | Date
 [Self.conference][44]     | Detroit, MI            | 5/19 - 5/20
 [RevolutionConf][42]      | Virginia Beach, VA     | 6/1 - 6/2
 [DinosaurJS][19]          | Denver, CO             | 6/15
+[NEJS][47]                | Omaha, NE              | 7/21
 [Develop Denver][16]      | Denver, CO             | 8/10 - 8/11
 [Midwest JS][21]          | Minneapolis, MN        | 8/16 - 8/18
 [React Rally][24]         | Salt Lake City, UT     | 8/24 - 8/25
 [Strange Loop][27]        | St. Louis, MO          | 9/28 - 9/30
 [Full Stack Toronto][40]  | Toronto, Canada        | 10/23 - 10/24
+[NationJS][1]             | Washington, DC         | 11/30 - 12/1
 
 ## 2016 Conferences
 
@@ -69,7 +71,7 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [15]: http://2016.cascadiafest.org/
 [16]: https://developdenver.org/
 [17]: https://midwest.io/
-[18]: https://nejsconf.com/
+[18]: https://2016.nejsconf.com/
 [19]: https://dinosaurjs.org/
 [20]: http://www.codestock.org/
 [21]: http://midwestjs.com/
@@ -93,3 +95,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [44]: http://selfconference.org/
 [45]: https://www.thestrangeloop.com/cfp.html
 [46]: https://developdenver.org/talks/new
+[47]: https://2017.nejsconf.com/
