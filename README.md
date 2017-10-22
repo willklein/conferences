@@ -27,6 +27,7 @@ Conference                | City                   | Date
 [Develop Denver][16]      | Denver, CO             | 8/10 - 8/11
 [Midwest JS][21]          | Minneapolis, MN        | 8/16 - 8/18
 [React Rally][24]         | Salt Lake City, UT     | 8/24 - 8/25
+[React Boston][48]        | Boston, MA             | 9/23 - 9/24
 [Strange Loop][27]        | St. Louis, MO          | 9/28 - 9/30
 [Full Stack Toronto][40]  | Toronto, Canada        | 10/23 - 10/24
 [NationJS][1]             | Washington, DC         | 11/30 - 12/1
@@ -96,3 +97,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [45]: https://www.thestrangeloop.com/cfp.html
 [46]: https://developdenver.org/talks/new
 [47]: https://2017.nejsconf.com/
+[48]: http://www.reactboston.com/
