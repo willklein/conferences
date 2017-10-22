@@ -9,6 +9,7 @@ Conference                | City                   | Date          | CFP Closes
 [Codemania][49]           | Auckland, New Zealand  | 5/23          | [TBD][50]
 
 ## 2018 Conferences
+Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
 [Codemania][49]           | Auckland, New Zealand  | 5/23
 
