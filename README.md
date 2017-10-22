@@ -11,6 +11,7 @@ Conference                | City                   | Date          | CFP Closes
 ## 2018 Conferences
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
+[Codestock][20]           | Knoxville, TN          | 4/20 - 4/21
 [Codemania][49]           | Auckland, New Zealand  | 5/23
 
 ## 2017 Conferences
