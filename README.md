@@ -7,6 +7,7 @@
 Conference                | City                   | Date          | CFP Closes
 ------------------------- | ---------------------- | ------------- | -------------
 [JSHeroes][50]            | Cluj-Napoca, Romania   | 4/18 - 4/20   | [12/31][51]
+[Write the Docs][55]      | Portland, OR           | 5/6 - 5/8     | [1/10][56]
 
 ## 2018 Conferences
 Conference                | City                   | Date
@@ -111,3 +112,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [52]: https://2018.jsconf.is/
 [53]: http://2018.jsconfau.com/
 [54]: https://conferences.oreilly.com/fluent/fl-ca
+[55]: http://www.writethedocs.org/conf/portland/2018/
+[56]: http://www.writethedocs.org/conf/portland/2018/cfp/
