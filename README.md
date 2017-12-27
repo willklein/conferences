@@ -11,7 +11,8 @@ Conference                | City                   | Date          | CFP Closes
 ## 2018 Conferences
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
-[Codestock][20]           | Knoxville, TN          | 4/20 - 4/21
+[JSConf Iceland][52]      | Reykjavik, Iceland     | 3/1 - 3/2
+[Codestock][20]           | Knoxville, TN          | 4/20 - 4/21
 [Codemania][49]           | Auckland, New Zealand  | 5/23
 
 ## 2017 Conferences
@@ -105,3 +106,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [49]: http://codemania.io/
 [50]: https://jsheroes.io/
 [51]: https://docs.google.com/forms/d/e/1FAIpQLSdPSo4Zy_M78PHRVFz90v1_SV3IqRcyhvgK2oCDY6ju6NDWeA/viewform
+[52]: https://2018.jsconf.is/
