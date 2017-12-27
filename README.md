@@ -8,6 +8,7 @@ Conference                | City                   | Date          | CFP Closes
 ------------------------- | ---------------------- | ------------- | -------------
 [JSHeroes][50]            | Cluj-Napoca, Romania   | 4/18 - 4/20   | [12/31][51]
 [Write the Docs][55]      | Portland, OR           | 5/6 - 5/8     | [1/10][56]
+[SyntaxCon][36]           | Charleston, SC         | 6/6 - 6/8     | [12/31][37]
 
 ## 2018 Conferences
 Conference                | City                   | Date
@@ -96,7 +97,8 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [32]: https://rockymtnruby.com/
 [33]: http://minnewebcon.org/
 [34]: http://peersconf.com/
-[36]: https://2017.syntaxcon.com/
+[36]: https://2018.syntaxcon.com/
+[37]: https://www.papercall.io/syntaxcon2018
 [39]: http://conf.reactjs.org/
 [40]: http://2017.fsto.co/
 [41]: http://2017.fsto.co/speak/
