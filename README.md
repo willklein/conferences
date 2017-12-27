@@ -6,7 +6,7 @@
 
 Conference                | City                   | Date          | CFP Closes
 ------------------------- | ---------------------- | ------------- | -------------
-[Codemania][49]           | Auckland, New Zealand  | 5/23          | [TBD][50]
+[JSHeroes][50]            | Cluj-Napoca, Romania   | 4/18 - 4/20   | [12/31][51]
 
 ## 2018 Conferences
 Conference                | City                   | Date
@@ -103,4 +103,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [47]: https://2017.nejsconf.com/
 [48]: http://www.reactboston.com/
 [49]: http://codemania.io/
-[50]: https://docs.google.com/forms/d/e/1FAIpQLSfr5lGFjKkA2DGGA6qpKhpKXNvEyKF9sa5QvITK01Ewejm02g/viewform
+[50]: https://jsheroes.io/
+[51]: https://docs.google.com/forms/d/e/1FAIpQLSdPSo4Zy_M78PHRVFz90v1_SV3IqRcyhvgK2oCDY6ju6NDWeA/viewform
