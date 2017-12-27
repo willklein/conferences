@@ -16,6 +16,7 @@ Conference                | City                   | Date
 [JSConf Iceland][52]      | Reykjavik, Iceland     | 3/1 - 3/2
 [JSConf Australia][53]    | Melbourne, Australia   | 3/21 - 3/22
 [Codestock][20]           | Knoxville, TN          | 4/20 - 4/21
+[RevolutionConf][42]      | Virginia Beach, VA     | 5/17 - 5/18
 [Codemania][49]           | Auckland, New Zealand  | 5/23
 [Fluent][54]              | San Jose, CA           | 6/12 - 6/14
 
