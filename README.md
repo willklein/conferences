@@ -6,18 +6,18 @@
 
 Conference                | City                   | Date          | CFP Closes
 ------------------------- | ---------------------- | ------------- | -------------
-[JSHeroes][50]            | Cluj-Napoca, Romania   | 4/18 - 4/20   | [12/31][51]
 [Write the Docs][55]      | Portland, OR           | 5/6 - 5/8     | [1/10][56]
-[SyntaxCon][36]           | Charleston, SC         | 6/6 - 6/8     | [12/31][37]
 
 ## 2018 Conferences
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
 [JSConf Iceland][52]      | Reykjavik, Iceland     | 3/1 - 3/2
 [JSConf Australia][53]    | Melbourne, Australia   | 3/21 - 3/22
+[JSHeroes][50]            | Cluj-Napoca, Romania   | 4/18 - 4/20
 [Codestock][20]           | Knoxville, TN          | 4/20 - 4/21
 [RevolutionConf][42]      | Virginia Beach, VA     | 5/17 - 5/18
 [Codemania][49]           | Auckland, New Zealand  | 5/23
+[SyntaxCon][36]           | Charleston, SC         | 6/6 - 6/8
 [Fluent][54]              | San Jose, CA           | 6/12 - 6/14
 
 ## 2017 Conferences
@@ -99,7 +99,6 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [33]: http://minnewebcon.org/
 [34]: http://peersconf.com/
 [36]: https://2018.syntaxcon.com/
-[37]: https://www.papercall.io/syntaxcon2018
 [39]: http://conf.reactjs.org/
 [40]: http://2017.fsto.co/
 [41]: http://2017.fsto.co/speak/
@@ -111,7 +110,6 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [48]: http://www.reactboston.com/
 [49]: http://codemania.io/
 [50]: https://jsheroes.io/
-[51]: https://docs.google.com/forms/d/e/1FAIpQLSdPSo4Zy_M78PHRVFz90v1_SV3IqRcyhvgK2oCDY6ju6NDWeA/viewform
 [52]: https://2018.jsconf.is/
 [53]: http://2018.jsconfau.com/
 [54]: https://conferences.oreilly.com/fluent/fl-ca
