@@ -17,6 +17,7 @@ Conference                | City                   | Date
 [Codestock][20]           | Knoxville, TN          | 4/20 - 4/21
 [RevolutionConf][42]      | Virginia Beach, VA     | 5/17 - 5/18
 [Codemania][49]           | Auckland, New Zealand  | 5/23
+[JSConf EU][57]           | Berlin, Germany        | 6/2 - 6/3
 [SyntaxCon][36]           | Charleston, SC         | 6/6 - 6/8
 [Fluent][54]              | San Jose, CA           | 6/12 - 6/14
 
@@ -115,3 +116,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [54]: https://conferences.oreilly.com/fluent/fl-ca
 [55]: http://www.writethedocs.org/conf/portland/2018/
 [56]: http://www.writethedocs.org/conf/portland/2018/cfp/
+[57]: https://2018.jsconf.eu/
