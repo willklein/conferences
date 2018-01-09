@@ -6,14 +6,16 @@
 
 Conference                | City                   | Date (m/d)    | CFP Closes
 ------------------------- | ---------------------- | ------------- | -------------
-[Write the Docs][55]      | Portland, OR           | 5/6 - 5/8     | [1/10][56]
 [ReactFest][60]           | London, United Kingdom | 3/9           | [1/15][61]
-[OpenVis Conf][58]        | Paris, France          | 5/14 - 5/16   | [1/15][59]
 [Codemotion Rome][62]     | Rome, Italy            | 4/13 - 4/14   | [1/16][63]
+[Write the Docs][55]      | Portland, OR           | 5/6 - 5/8     | [1/10][56]
+[OpenVis Conf][58]        | Paris, France          | 5/14 - 5/16   | [1/15][59]
+[Front-Trends][67]        | Warsaw, Poland         | 5/24 - 5/25   | [3/31][68]
 [Nordic.js][65]           | Stockholm, Sweden      | 9/6 - 9/7     | [?/?][66]
 
+
 ## 2018 Conferences
-Conference                | City                   | Date
+Conference                | City                   | Date (m/d)
 ------------------------- | ---------------------- | -------------
 [JSConf Asia][64]         | Singapore, Malaysia    | 1/25 - 1/27
 [JSConf Iceland][52]      | Reykjavik, Iceland     | 3/1 - 3/2
@@ -28,7 +30,7 @@ Conference                | City                   | Date
 
 ## 2017 Conferences
 
-Conference                | City                   | Date
+Conference                | City                   | Date (m/d)
 ------------------------- | ---------------------- | -------------
 [The Lead Developer][31]  | New York, NY           | 2/21
 [React Conf][39]          | Santa Clara, CA        | 3/13 - 3/14
@@ -50,7 +52,7 @@ Conference                | City                   | Date
 
 ## 2016 Conferences
 
-Conference                | City                   | Date
+Conference                | City                   | Date (m/d)
 ------------------------- | ---------------------- | -------------
 [React.js][30]            | San Francisco, CA      | 2/22 - 2/23
 [DinosaurJS][19]          | Denver, CO             | 5/24
@@ -131,3 +133,6 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [64]: https://2018.jsconf.asia/
 [65]: http://nordicjs.com/
 [66]: http://cfp.nordicjs.com/
+[67]: https://2018.front-trends.com/
+[68]: https://2018.front-trends.com/speaking-at-front-trends/
+
