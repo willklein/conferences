@@ -9,6 +9,7 @@ Conference                | City                   | Date          | CFP Closes
 [Write the Docs][55]      | Portland, OR           | 5/6 - 5/8     | [1/10][56]
 [ReactFest][60]           | London, United Kingdom | 3/9           | [1/15][61]
 [OpenVis Conf][58]        | Paris, France          | 5/14 - 5/16   | [1/15][59]
+[Codemotion Rome][62]     | Rome, Italy            | 4/13 - 4/14   | [1/16][63]
 
 ## 2018 Conferences
 Conference                | City                   | Date
@@ -123,3 +124,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [59]: http://www.openvisconf.com/call-for-speakers/
 [60]: https://reactfest.com/
 [61]: https://docs.google.com/forms/d/e/1FAIpQLScACeKKR_21RSDcKUxfsjLd1jCCeq-QHxll78gF99rmQCcljA/viewform
+[62]: https://rome2018.codemotionworld.com/
+[63]: https://rome2018.codemotionworld.com/call-for-papers-guidelines/
