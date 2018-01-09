@@ -4,12 +4,13 @@
 
 ## Open CFPs
 
-Conference                | City                   | Date          | CFP Closes
+Conference                | City                   | Date (m/d)    | CFP Closes
 ------------------------- | ---------------------- | ------------- | -------------
 [Write the Docs][55]      | Portland, OR           | 5/6 - 5/8     | [1/10][56]
 [ReactFest][60]           | London, United Kingdom | 3/9           | [1/15][61]
 [OpenVis Conf][58]        | Paris, France          | 5/14 - 5/16   | [1/15][59]
 [Codemotion Rome][62]     | Rome, Italy            | 4/13 - 4/14   | [1/16][63]
+[Nordic.js][65]           | Stockholm, Sweden      | 9/6 - 9/7     | [?/?][66]
 
 ## 2018 Conferences
 Conference                | City                   | Date
@@ -128,3 +129,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [62]: https://rome2018.codemotionworld.com/
 [63]: https://rome2018.codemotionworld.com/call-for-papers-guidelines/
 [64]: https://2018.jsconf.asia/
+[65]: http://nordicjs.com/
+[66]: http://cfp.nordicjs.com/
