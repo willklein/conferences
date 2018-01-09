@@ -7,6 +7,7 @@
 Conference                | City                   | Date          | CFP Closes
 ------------------------- | ---------------------- | ------------- | -------------
 [Write the Docs][55]      | Portland, OR           | 5/6 - 5/8     | [1/10][56]
+[OpenVis Conf][58]        | Paris, France          | 5/14 - 5/16   | [1/15][59]
 
 ## 2018 Conferences
 Conference                | City                   | Date
@@ -117,3 +118,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [55]: http://www.writethedocs.org/conf/portland/2018/
 [56]: http://www.writethedocs.org/conf/portland/2018/cfp/
 [57]: https://2018.jsconf.eu/
+[58]: http://www.openvisconf.com/
+[59]: http://www.openvisconf.com/call-for-speakers/
