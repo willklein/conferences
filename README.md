@@ -14,7 +14,8 @@ Conference                | City                   | Date          | CFP Closes
 ## 2018 Conferences
 Conference                | City                   | Date
 ------------------------- | ---------------------- | -------------
-[JSConf Iceland][52]      | Reykjavik, Iceland     | 3/1 - 3/2
+[JSConf Asia][64]         | Singapore, Malaysia    | 1/25 - 1/27
+[JSConf Iceland][52]      | Reykjavik, Iceland     | 3/1 - 3/2
 [JSConf Australia][53]    | Melbourne, Australia   | 3/21 - 3/22
 [JSHeroes][50]            | Cluj-Napoca, Romania   | 4/18 - 4/20
 [Codestock][20]           | Knoxville, TN          | 4/20 - 4/21
@@ -126,3 +127,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [61]: https://docs.google.com/forms/d/e/1FAIpQLScACeKKR_21RSDcKUxfsjLd1jCCeq-QHxll78gF99rmQCcljA/viewform
 [62]: https://rome2018.codemotionworld.com/
 [63]: https://rome2018.codemotionworld.com/call-for-papers-guidelines/
+[64]: https://2018.jsconf.asia/
