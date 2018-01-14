@@ -10,6 +10,7 @@ Conference                | City                   | Date (m/d)    | CFP Closes
 [Codemotion Rome][62]     | Rome, Italy            | 4/13 - 4/14   | [1/16][63]
 [Write the Docs][55]      | Portland, OR           | 5/6 - 5/8     | [1/10][56]
 [OpenVis Conf][58]        | Paris, France          | 5/14 - 5/16   | [1/15][59]
+[RevolutionConf][42]      | Virginia Beach, VA     | 5/17 - 5/18   | [2/11][43]
 [Front-Trends][67]        | Warsaw, Poland         | 5/24 - 5/25   | [3/31][68]
 [Nordic.js][65]           | Stockholm, Sweden      | 9/6 - 9/7     | [?/?][66]
 
@@ -39,7 +40,7 @@ Conference                | City                   | Date (m/d)
 [CodeStock][20]           | Knoxville, TN          | 5/5 - 5/6
 [SyntaxCon][36]           | Charleston, SC         | 5/18 - 5/19
 [Self.conference][44]     | Detroit, MI            | 5/19 - 5/20
-[RevolutionConf][42]      | Virginia Beach, VA     | 6/1 - 6/2
+[RevolutionConf][2]       | Virginia Beach, VA     | 6/1 - 6/2
 [DinosaurJS][19]          | Denver, CO             | 6/15
 [NEJS][47]                | Omaha, NE              | 7/21
 [Develop Denver][16]      | Denver, CO             | 8/10 - 8/11
@@ -82,6 +83,7 @@ Conference                | City                   | Date (m/d)
 Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 
 [1]: http://nationjs.com/
+[2]: https://2017.revolutionconf.com/
 [3]: http://connect.tech/
 [5]: http://thunderplainsconf.com/
 [7]: http://nodevember.org/
@@ -111,6 +113,7 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [40]: http://2017.fsto.co/
 [41]: http://2017.fsto.co/speak/
 [42]: https://revolutionconf.com/
+[43]: https://sessionize.com/revolutionconf-2018/
 [44]: http://selfconference.org/
 [45]: https://www.thestrangeloop.com/cfp.html
 [46]: https://developdenver.org/talks/new
@@ -135,4 +138,3 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [66]: http://cfp.nordicjs.com/
 [67]: https://2018.front-trends.com/
 [68]: https://2018.front-trends.com/speaking-at-front-trends/
-
