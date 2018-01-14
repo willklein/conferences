@@ -2,9 +2,11 @@
 
 > Curated list of conferences and CFPs that interest me
 
+While primarily frontend focused, I also track events related to Node, software best practices, and language-agnostic conferences. Dates are in month/day format.
+
 ## Open CFPs
 
-Conference                | City                   | Date (m/d)    | CFP Closes
+Conference                | City                   | Date (m/d)    | CFP Closes (m/d)
 ------------------------- | ---------------------- | ------------- | -------------
 [ReactFest][60]           | London, United Kingdom | 3/9           | [1/15][61]
 [Codemotion Rome][62]     | Rome, Italy            | 4/13 - 4/14   | [1/16][63]
