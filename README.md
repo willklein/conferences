@@ -10,7 +10,6 @@ Conference                | City                   | Date (m/d)    | CFP Closes 
 ------------------------- | ---------------------- | ------------- | -------------
 [ReactFest][60]           | London, United Kingdom | 3/9           | [1/15][61]
 [Codemotion Rome][62]     | Rome, Italy            | 4/13 - 4/14   | [1/16][63]
-[Write the Docs][55]      | Portland, OR           | 5/6 - 5/8     | [1/10][56]
 [OpenVis Conf][58]        | Paris, France          | 5/14 - 5/16   | [1/15][59]
 [RevolutionConf][42]      | Virginia Beach, VA     | 5/17 - 5/18   | [2/11][43]
 [Front-Trends][67]        | Warsaw, Poland         | 5/24 - 5/25   | [3/31][68]
@@ -22,14 +21,20 @@ Conference                | City                   | Date (m/d)
 ------------------------- | ---------------------- | -------------
 [JSConf Asia][64]         | Singapore, Malaysia    | 1/25 - 1/27
 [JSConf Iceland][52]      | Reykjavik, Iceland     | 3/1 - 3/2
+[ReactFest][60]           | London, United Kingdom | 3/9
 [JSConf Australia][53]    | Melbourne, Australia   | 3/21 - 3/22
+[Codemotion Rome][62]     | Rome, Italy            | 4/13 - 4/14
 [JSHeroes][50]            | Cluj-Napoca, Romania   | 4/18 - 4/20
 [Codestock][20]           | Knoxville, TN          | 4/20 - 4/21
+[Write the Docs][55]      | Portland, OR           | 5/6 - 5/8
+[OpenVis Conf][58]        | Paris, France          | 5/14 - 5/16
 [RevolutionConf][42]      | Virginia Beach, VA     | 5/17 - 5/18
 [Codemania][49]           | Auckland, New Zealand  | 5/23
+[Front-Trends][67]        | Warsaw, Poland         | 5/24 - 5/25
 [JSConf EU][57]           | Berlin, Germany        | 6/2 - 6/3
 [SyntaxCon][36]           | Charleston, SC         | 6/6 - 6/8
 [Fluent][54]              | San Jose, CA           | 6/12 - 6/14
+[Nordic.js][65]           | Stockholm, Sweden      | 9/6 - 9/7
 
 ## 2017 Conferences
 
@@ -127,7 +132,6 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [53]: http://2018.jsconfau.com/
 [54]: https://conferences.oreilly.com/fluent/fl-ca
 [55]: http://www.writethedocs.org/conf/portland/2018/
-[56]: http://www.writethedocs.org/conf/portland/2018/cfp/
 [57]: https://2018.jsconf.eu/
 [58]: http://www.openvisconf.com/
 [59]: http://www.openvisconf.com/call-for-speakers/
