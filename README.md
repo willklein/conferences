@@ -8,15 +8,12 @@ While primarily frontend focused, I also track events related to Node, software 
 
 Conference                | City                   | Date (m/d)    | CFP Closes (m/d)
 ------------------------- | ---------------------- | ------------- | -------------
-[ReactFest][60]           | London, United Kingdom | 3/9           | [1/15][61]
-[Codemotion Rome][62]     | Rome, Italy            | 4/13 - 4/14   | [1/16][63]
-[OpenVis Conf][58]        | Paris, France          | 5/14 - 5/16   | [1/15][59]
 [RevolutionConf][42]      | Virginia Beach, VA     | 5/17 - 5/18   | [2/11][43]
 [Front-Trends][67]        | Warsaw, Poland         | 5/24 - 5/25   | [3/31][68]
 [Nordic.js][65]           | Stockholm, Sweden      | 9/6 - 9/7     | [?/?][66]
 
-
 ## 2018 Conferences
+
 Conference                | City                   | Date (m/d)
 ------------------------- | ---------------------- | -------------
 [JSConf Asia][64]         | Singapore, Malaysia    | 1/25 - 1/27
