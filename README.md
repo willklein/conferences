@@ -33,6 +33,7 @@ Conference                | City                   | Date (m/d)
 [SyntaxCon][36]           | Charleston, SC         | 6/6 - 6/8
 [Fluent][54]              | San Jose, CA           | 6/12 - 6/14
 [DinosaurJS][19]          | Denver, CO             | 6/21 - 6/22
+[JSConf US][70]           | ?                      | 8/21 - 8/23
 [Nordic.js][65]           | Stockholm, Sweden      | 9/6 - 9/7
 
 ## 2017 Conferences
@@ -144,3 +145,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [67]: https://2018.front-trends.com/
 [68]: https://2018.front-trends.com/speaking-at-front-trends/
 [69]: http://speak.dinosaurjs.org/events/2018
+[70]: https://twitter.com/JSConfUS/status/953310891595898880
