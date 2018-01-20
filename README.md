@@ -10,7 +10,7 @@ Conference                | City                   | Date (m/d)    | CFP Closes 
 ------------------------- | ---------------------- | ------------- | -------------
 [RevolutionConf][42]      | Virginia Beach, VA     | 5/17 - 5/18   | [2/11][43]
 [Front-Trends][67]        | Warsaw, Poland         | 5/24 - 5/25   | [3/31][68]
-[DinosaurJS][19]          | Denver, CO             | 6/21 - 6/22   | [3/15][69] 
+[DinosaurJS][71]          | Denver, CO             | 6/21 - 6/22   | [3/15][69] 
 [Nordic.js][65]           | Stockholm, Sweden      | 9/6 - 9/7     | [?/?][66]
 
 ## 2018 Conferences
@@ -32,7 +32,7 @@ Conference                | City                   | Date (m/d)
 [JSConf EU][57]           | Berlin, Germany        | 6/2 - 6/3
 [SyntaxCon][36]           | Charleston, SC         | 6/6 - 6/8
 [Fluent][54]              | San Jose, CA           | 6/12 - 6/14
-[DinosaurJS][19]          | Denver, CO             | 6/21 - 6/22
+[DinosaurJS][71]          | Denver, CO             | 6/21 - 6/22
 [JSConf US][70]           | ?                      | 8/21 - 8/23
 [Nordic.js][65]           | Stockholm, Sweden      | 9/6 - 9/7
 
@@ -146,3 +146,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [68]: https://2018.front-trends.com/speaking-at-front-trends/
 [69]: http://speak.dinosaurjs.org/events/2018
 [70]: https://twitter.com/JSConfUS/status/953310891595898880
+[71]: https://twitter.com/dinosaur_js/status/954419446927503361
