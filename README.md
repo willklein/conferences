@@ -21,6 +21,7 @@ Conference                | City                   | Date (m/d)
 [JSConf Iceland][52]      | Reykjavik, Iceland     | 3/1 - 3/2
 [ReactFest][60]           | London, United Kingdom | 3/9
 [JSConf Australia][53]    | Melbourne, Australia   | 3/21 - 3/22
+[PerfMatters][72]         | Redwood City, CA       | 3/27 - 3/28
 [Codemotion Rome][62]     | Rome, Italy            | 4/13 - 4/14
 [JSHeroes][50]            | Cluj-Napoca, Romania   | 4/18 - 4/20
 [Codestock][20]           | Knoxville, TN          | 4/20 - 4/21
@@ -147,3 +148,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [69]: http://speak.dinosaurjs.org/events/2018
 [70]: https://twitter.com/JSConfUS/status/953310891595898880
 [71]: https://twitter.com/dinosaur_js/status/954419446927503361
+[72]: https://perfmattersconf.com/
