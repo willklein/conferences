@@ -20,6 +20,7 @@ Conference                | City                   | Date (m/d)
 [JSConf Asia][64]         | Singapore, Malaysia    | 1/25 - 1/27
 [JSConf Iceland][52]      | Reykjavik, Iceland     | 3/1 - 3/2
 [ReactFest][60]           | London, United Kingdom | 3/9
+[TSConf][73]              | Seattle, WA            | 3/12
 [JSConf Australia][53]    | Melbourne, Australia   | 3/21 - 3/22
 [PerfMatters][72]         | Redwood City, CA       | 3/27 - 3/28
 [Codemotion Rome][62]     | Rome, Italy            | 4/13 - 4/14
@@ -149,3 +150,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [70]: https://twitter.com/JSConfUS/status/953310891595898880
 [71]: https://twitter.com/dinosaur_js/status/954419446927503361
 [72]: https://perfmattersconf.com/
+[73]: https://tsconf.io/
