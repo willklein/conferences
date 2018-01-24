@@ -35,6 +35,7 @@ Conference                | City                   | Date (m/d)
 [SyntaxCon][36]           | Charleston, SC         | 6/6 - 6/8
 [Fluent][54]              | San Jose, CA           | 6/12 - 6/14
 [DinosaurJS][71]          | Denver, CO             | 6/21 - 6/22
+[Chain React][74]         | Portland, OR           | 7/11 - 7/13
 [JSConf US][70]           | ?                      | 8/21 - 8/23
 [Nordic.js][65]           | Stockholm, Sweden      | 9/6 - 9/7
 
@@ -151,3 +152,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [71]: https://twitter.com/dinosaur_js/status/954419446927503361
 [72]: https://perfmattersconf.com/
 [73]: https://tsconf.io/
+[74]: https://infinite.red/ChainReactConf
+
