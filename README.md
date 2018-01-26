@@ -8,10 +8,12 @@ While primarily frontend focused, I also track events related to Node, software 
 
 Conference                | City                   | Date (m/d)    | CFP Closes (m/d)
 ------------------------- | ---------------------- | ------------- | -------------
+[Heartifacts][75]         | Pittsburgh, PA         | 4/20 - 4/21   | [2/14][76]
 [RevolutionConf][42]      | Virginia Beach, VA     | 5/17 - 5/18   | [2/11][43]
 [Front-Trends][67]        | Warsaw, Poland         | 5/24 - 5/25   | [3/31][68]
 [DinosaurJS][71]          | Denver, CO             | 6/21 - 6/22   | [3/15][69] 
 [Nordic.js][65]           | Stockholm, Sweden      | 9/6 - 9/7     | [?/?][66]
+
 
 ## 2018 Conferences
 
@@ -25,6 +27,7 @@ Conference                | City                   | Date (m/d)
 [PerfMatters][72]         | Redwood City, CA       | 3/27 - 3/28
 [Codemotion Rome][62]     | Rome, Italy            | 4/13 - 4/14
 [JSHeroes][50]            | Cluj-Napoca, Romania   | 4/18 - 4/20
+[Heartifacts][75]         | Pittsburgh, PA         | 4/20 - 4/21
 [Codestock][20]           | Knoxville, TN          | 4/20 - 4/21
 [Write the Docs][55]      | Portland, OR           | 5/6 - 5/8
 [OpenVis Conf][58]        | Paris, France          | 5/14 - 5/16
@@ -153,4 +156,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [72]: https://perfmattersconf.com/
 [73]: https://tsconf.io/
 [74]: https://infinite.red/ChainReactConf
-
+[75]: https://codeandsupply.co/heartifacts
+[76]: https://www.papercall.io/heartifacts
