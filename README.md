@@ -19,6 +19,7 @@ Conference                | City                   | Date (m/d)
 ------------------------- | ---------------------- | -------------
 [JSHeroes][51]            | Cluj-Napoca, Romania   | 4/11 - 4/12
 [Codestock][20]           | Knoxville, TN          | 4/12 - 4/13
+[Codemania][49]           | Auckland, New Zealand  | 5/15
 [JSConf EU][81]           | Berlin, Germany        | 6/1 - 6/2
 [The Lead Developer][84]  | London, United Kingdom | 6/11 - 6/12
 [JSConf.Asia][78]         | Singapore, Malaysia    | 6/14 - 6/16
