@@ -8,7 +8,18 @@ While primarily frontend focused, I also track events related to Node, software 
 
 Conference                | City                   | Date (m/d)    | CFP Closes (m/d)
 ------------------------- | ---------------------- | ------------- | -------------
+[JSHeroes][51]            | Cluj-Napoca, Romania   | 4/11 - 4/12   | [12/1][80]
+[JSConf EU][81]           | Berlin, Germany        | 6/1 - 6/2     | [12/23][82]
 [JSConf.Asia][78]         | Singapore, Malaysia    | 6/14 - 6/16   | [?/?][79]
+
+## 2019 Conferences
+
+Conference                | City                   | Date (m/d)
+------------------------- | ---------------------- | -------------
+[JSHeroes][51]            | Cluj-Napoca, Romania   | 4/11 - 4/12
+[Codestock][20]           | Knoxville, TN          | 4/12 - 4/13
+[JSConf EU][81]           | Berlin, Germany        | 6/1 - 6/2
+[JSConf.Asia][78]         | Singapore, Malaysia    | 6/14 - 6/16
 
 ## 2018 Conferences
 
@@ -129,7 +140,8 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [47]: https://2017.nejsconf.com/
 [48]: http://www.reactboston.com/
 [49]: http://codemania.io/
-[50]: https://jsheroes.io/
+[50]: https://jsheroes.io/2018
+[51]: https://jsheroes.io/
 [52]: https://2018.jsconf.is/
 [53]: http://2018.jsconfau.com/
 [54]: https://conferences.oreilly.com/fluent/fl-ca
@@ -157,3 +169,6 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [77]: https://2018.cascadiajs.com/
 [78]: https://2019.jsconf.asia/
 [79]: https://contribute.jsconf.asia/
+[80]: https://jsheroes-form.typeform.com/to/IHohur
+[81]: https://2019.jsconf.eu/
+[82]: https://2019.jsconf.eu/call-for-speakers/
