@@ -47,6 +47,7 @@ Conference                | City                   | Date (m/d)
 [Chain React][74]         | Portland, OR           | 7/11 - 7/13
 [JSConf US][70]           | ?                      | 8/21 - 8/23
 [Nordic.js][65]           | Stockholm, Sweden      | 9/6 - 9/7
+[React Conf][83]          | Henderson, NV          | 10/25 - 10/26
 [CascadiaJS][77]          | Seattle, WA            | 11/15 - 11/16
 
 ## 2017 Conferences
@@ -129,7 +130,7 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [33]: http://minnewebcon.org/
 [34]: http://peersconf.com/
 [36]: https://2018.syntaxcon.com/
-[39]: http://conf.reactjs.org/
+[39]: http://conf2017.reactjs.org/
 [40]: http://2017.fsto.co/
 [41]: http://2017.fsto.co/speak/
 [42]: https://revolutionconf.com/
@@ -172,3 +173,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [80]: https://jsheroes-form.typeform.com/to/IHohur
 [81]: https://2019.jsconf.eu/
 [82]: https://2019.jsconf.eu/call-for-speakers/
+[83]: https://conf.reactjs.org/
