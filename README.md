@@ -10,6 +10,7 @@ Conference                | City                   | Date (m/d)    | CFP Closes 
 ------------------------- | ---------------------- | ------------- | -------------
 [JSHeroes][51]            | Cluj-Napoca, Romania   | 4/11 - 4/12   | [12/1][80]
 [JSConf EU][81]           | Berlin, Germany        | 6/1 - 6/2     | [12/23][82]
+[The Lead Developer][84]  | London, United Kingdom | 6/11 - 6/12   | [12/7][85]
 [JSConf.Asia][78]         | Singapore, Malaysia    | 6/14 - 6/16   | [?/?][79]
 
 ## 2019 Conferences
@@ -19,6 +20,7 @@ Conference                | City                   | Date (m/d)
 [JSHeroes][51]            | Cluj-Napoca, Romania   | 4/11 - 4/12
 [Codestock][20]           | Knoxville, TN          | 4/12 - 4/13
 [JSConf EU][81]           | Berlin, Germany        | 6/1 - 6/2
+[The Lead Developer][84]  | London, United Kingdom | 6/11 - 6/12
 [JSConf.Asia][78]         | Singapore, Malaysia    | 6/14 - 6/16
 
 ## 2018 Conferences
@@ -125,7 +127,7 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [27]: http://www.thestrangeloop.com/
 [28]: http://empirenode.org/
 [30]: http://conf.reactjs.com/
-[31]: http://theleaddeveloper-ny.com/
+[31]: https://2017.theleaddeveloper-ny.com/
 [32]: https://rockymtnruby.com/
 [33]: http://minnewebcon.org/
 [34]: http://peersconf.com/
@@ -174,3 +176,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [81]: https://2019.jsconf.eu/
 [82]: https://2019.jsconf.eu/call-for-speakers/
 [83]: https://conf.reactjs.org/
+[84]: http://london2019.theleaddeveloper.com/
+[85]: https://docs.google.com/forms/d/e/1FAIpQLScFecn4_PGdkPnl4OF7VGb0hl2e2bln0gMe3Vc-Y7oAkni8YQ/viewform
