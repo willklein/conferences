@@ -8,13 +8,13 @@ While primarily frontend focused, I also track events related to Node, software 
 
 Conference                | City                   | Date (m/d)    | CFP Closes (m/d)
 ------------------------- | ---------------------- | ------------- | -------------
-
+[JSConf.Asia][78]         | Singapore, Malaysia    | 6/14 - 6/16   | [?/?][79]
 
 ## 2018 Conferences
 
 Conference                | City                   | Date (m/d)
 ------------------------- | ---------------------- | -------------
-[JSConf Asia][64]         | Singapore, Malaysia    | 1/25 - 1/27
+[JSConf.Asia][64]         | Singapore, Malaysia    | 1/25 - 1/27
 [JSConf Iceland][52]      | Reykjavik, Iceland     | 3/1 - 3/2
 [ReactFest][60]           | London, United Kingdom | 3/9
 [TSConf][73]              | Seattle, WA            | 3/12
@@ -155,3 +155,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [75]: https://codeandsupply.co/heartifacts
 [76]: https://www.papercall.io/heartifacts
 [77]: https://2018.cascadiajs.com/
+[78]: https://2019.jsconf.asia/
+[79]: https://contribute.jsconf.asia/
