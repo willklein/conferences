@@ -8,9 +8,7 @@ While primarily frontend focused, I also track events related to Node, software 
 
 Conference                | City                   | Date (m/d)    | CFP Closes (m/d)
 ------------------------- | ---------------------- | ------------- | -------------
-[JSHeroes][51]            | Cluj-Napoca, Romania   | 4/11 - 4/12   | [12/1][80]
 [JSConf EU][81]           | Berlin, Germany        | 6/1 - 6/2     | [12/23][82]
-[The Lead Developer][84]  | London, United Kingdom | 6/11 - 6/12   | [12/7][85]
 [JSConf.Asia][78]         | Singapore, Malaysia    | 6/14 - 6/16   | [?/?][79]
 
 ## 2019 Conferences
