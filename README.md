@@ -8,6 +8,7 @@ While primarily frontend focused, I also track events related to Node, software 
 
 Conference                | City                   | Date (m/d)    | CFP Closes (m/d)
 ------------------------- | ---------------------- | ------------- | -------------
+[Self.conference][44]     | Detroit, MI            | 6/7 - 6/8     | [2/18][88]
 [JSConf.Asia][78]         | Singapore, Malaysia    | 6/14 - 6/16   | [?/?][79]
 [JSConf US][86]           | Carlsbad, CA           | 8/12 - 8/14   | [3/1][87]
 
@@ -19,6 +20,7 @@ Conference                | City                   | Date (m/d)
 [Codestock][20]           | Knoxville, TN          | 4/12 - 4/13
 [Codemania][49]           | Auckland, New Zealand  | 5/15
 [JSConf EU][81]           | Berlin, Germany        | 6/1 - 6/2
+[Self.conference][44]     | Detroit, MI            | 6/7 - 6/8
 [The Lead Developer][84]  | London, United Kingdom | 6/11 - 6/12
 [JSConf.Asia][78]         | Singapore, Malaysia    | 6/14 - 6/16
 [JSConf US][86]           | Carlsbad, CA           | 8/12 - 8/14
@@ -180,3 +182,4 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [85]: https://docs.google.com/forms/d/e/1FAIpQLScFecn4_PGdkPnl4OF7VGb0hl2e2bln0gMe3Vc-Y7oAkni8YQ/viewform
 [86]: https://2019.jsconf.us/
 [87]: https://2019.jsconf.us/call-for-proposals/
+[88]: selfconference.org/submit
