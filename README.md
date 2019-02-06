@@ -11,6 +11,7 @@ Conference                | City                   | Date (m/d)    | CFP Closes 
 [Self.conference][44]     | Detroit, MI            | 6/7 - 6/8     | [2/18][88]
 [JSConf.Asia][78]         | Singapore, Malaysia    | 6/14 - 6/16   | [?/?][79]
 [JSConf US][86]           | Carlsbad, CA           | 8/12 - 8/14   | [3/1][87]
+[Nordic.js][65]           | Stockholm, Sweden      | 10/10 - 10/11 | [?/?][66]
 
 ## 2019 Conferences
 
@@ -24,6 +25,7 @@ Conference                | City                   | Date (m/d)
 [The Lead Developer][84]  | London, United Kingdom | 6/11 - 6/12
 [JSConf.Asia][78]         | Singapore, Malaysia    | 6/14 - 6/16
 [JSConf US][86]           | Carlsbad, CA           | 8/12 - 8/14
+[Nordic.js][65]           | Stockholm, Sweden      | 10/10 - 10/11
 
 ## 2018 Conferences
 
@@ -160,7 +162,7 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [63]: https://rome2018.codemotionworld.com/call-for-papers-guidelines/
 [64]: https://2018.jsconf.asia/
 [65]: http://nordicjs.com/
-[66]: http://cfp.nordicjs.com/
+[66]: https://nordicjs.com/call-for-speakers
 [67]: https://2018.front-trends.com/
 [68]: https://2018.front-trends.com/speaking-at-front-trends/
 [69]: http://speak.dinosaurjs.org/events/2018
