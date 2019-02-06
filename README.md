@@ -8,8 +8,8 @@ While primarily frontend focused, I also track events related to Node, software 
 
 Conference                | City                   | Date (m/d)    | CFP Closes (m/d)
 ------------------------- | ---------------------- | ------------- | -------------
-[JSConf EU][81]           | Berlin, Germany        | 6/1 - 6/2     | [12/23][82]
 [JSConf.Asia][78]         | Singapore, Malaysia    | 6/14 - 6/16   | [?/?][79]
+[JSConf US][86]           | Carlsbad, CA           | 8/12 - 8/14   | [3/1][87]
 
 ## 2019 Conferences
 
@@ -21,6 +21,7 @@ Conference                | City                   | Date (m/d)
 [JSConf EU][81]           | Berlin, Germany        | 6/1 - 6/2
 [The Lead Developer][84]  | London, United Kingdom | 6/11 - 6/12
 [JSConf.Asia][78]         | Singapore, Malaysia    | 6/14 - 6/16
+[JSConf US][86]           | Carlsbad, CA           | 8/12 - 8/14
 
 ## 2018 Conferences
 
@@ -177,3 +178,5 @@ Please file an issue or submit a PR, and if it interests me, I'll add it. :)
 [83]: https://conf.reactjs.org/
 [84]: http://london2019.theleaddeveloper.com/
 [85]: https://docs.google.com/forms/d/e/1FAIpQLScFecn4_PGdkPnl4OF7VGb0hl2e2bln0gMe3Vc-Y7oAkni8YQ/viewform
+[86]: https://2019.jsconf.us/
+[87]: https://2019.jsconf.us/call-for-proposals/
